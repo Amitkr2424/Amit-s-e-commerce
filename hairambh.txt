@@ -1,0 +1,10 @@
+<html> 
+    <head> <title> my first audio ...</title>
+        <body>
+<h1> hare rama hare krishana </h1>
+<audio controls autoplay></audio>
+<source src="hairambh.mp3">
+</audio>
+<video  src="hairambh.mp4" height="450" width="800" controls autoplay></video> 
+    </head>
+</html>
